@@ -1,7 +1,7 @@
 name: "yufei-world"
 title: "My Blog"
 description: |
-  My Blog
+  我的个人博客
 output_dir: "_site"
 navbar:
   right:

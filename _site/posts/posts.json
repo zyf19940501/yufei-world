@@ -1,19 +1,19 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to My Blog",
-    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2022-07-20-the-usage-of-git-on-rstudio/",
+    "title": "The Usage Of Git On Rstudio",
+    "description": "git 在rstudio 上面的使用方法.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "宇飞的世界",
+        "url": "www.zhongyufei.com"
       }
     ],
     "date": "2022-07-20",
     "categories": [],
-    "contents": "\n\n\n\n",
+    "contents": "\ngit status\ngit add .\ngit commit -m \"commit\"\ngit push -u origin main\n\n\n\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-07-20T13:19:59+08:00",
-    "input_file": {}
+    "last_modified": "2022-07-20T14:29:29+08:00",
+    "input_file": "the-usage-of-git-on-rstudio.knit.md"
   }
 ]

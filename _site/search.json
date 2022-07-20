@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "个人笔记空间",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-07-20T13:20:00+08:00"
+      "last_modified": "2022-07-20T14:02:41+08:00"
     },
     {
       "path": "index.html",
       "title": "My Blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-07-20T13:20:01+08:00"
+      "last_modified": "2022-07-20T14:02:41+08:00"
     }
   ],
   "collections": ["posts/posts.json"]

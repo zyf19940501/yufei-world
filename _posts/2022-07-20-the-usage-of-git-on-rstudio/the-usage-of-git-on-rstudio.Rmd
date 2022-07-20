@@ -11,18 +11,14 @@ output:
     self_contained: false
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```   
-git status
-git add .
-git commit -m "commit"
-git push -u origin main
-```
-
+    git status
+    git add .
+    git commit -m "commit"
+    git push -u origin main
 
 ```{bash eval=FALSE}
 git status
@@ -30,4 +26,3 @@ git add .
 git commit -m "commit"
 git push -u origin main
 ```
-
