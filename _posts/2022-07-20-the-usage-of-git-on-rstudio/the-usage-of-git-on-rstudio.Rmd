@@ -15,14 +15,14 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-    git status
-    git add .
-    git commit -m "commit"
-    git push -u origin main
+提交代码如下
 
-```{bash eval=FALSE}
+```
 git status
 git add .
 git commit -m "commit"
 git push -u origin main
+
 ```
+
+
